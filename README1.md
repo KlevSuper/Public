@@ -2,7 +2,7 @@
 
 [[лаба 1.docx](https://github.com/MaksusLord/MyRepozitoriy/blob/main/лаба%201.docx)]
 
-| Number | Task |  Д/з |
+| Неделя | Лаб работа | Д/з |
 |:------:|:----------|----------|
 | 1 | Run Access and create a new database. |  |
 | 2 | Create a layout of a table containing the following fields: Student Code, Surname, First Name, Group, Address, Phone, Photo, Notes. | ![Skrin1](Skrin1.png) |
